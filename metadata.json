@@ -1,0 +1,6 @@
+{
+  "name": "MUSLIM",
+  "description": "تطبيق إسلامي شامل: القرآن الكريم كاملاً بصوت كبار القراء، مواقيت الصلاة بتوقيت وزارة الأوقاف المغربية، إشعارات الأذان في الخلفية، أذكار وأدعية وسبحة بتصميم أسود وأبيض فاخر.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
